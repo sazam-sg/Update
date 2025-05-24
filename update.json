@@ -1,6 +1,4 @@
 {
-  "version": "27",
-  "force_update": true,
-  "message": "Aplikasi Santri Gabut versi terbaru tersedia. Silakan update untuk melanjutkan.",
-  "update_url": "https://santrigabuttt.olshopku.com/download"
+  "version": "28",
+  "changelog": "Perbaikan halaman dan warna nya agar terlihat lebih bagus."
 }
